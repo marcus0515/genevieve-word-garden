@@ -61,7 +61,8 @@
         "audio": "audio/A8-v2.mp3"
       }
     ],
-    "worksheet": "worksheet-lesson-1.pdf"
+    "worksheet": "worksheet-lesson-1.pdf",
+    "group": "小測溫習"
   },
   {
     "number": 2,
@@ -125,7 +126,8 @@
         "audio": "audio/B8-v2.mp3"
       }
     ],
-    "worksheet": "worksheet-lesson-2.pdf"
+    "worksheet": "worksheet-lesson-2.pdf",
+    "group": "小測溫習"
   },
   {
     "number": 4,
@@ -196,7 +198,8 @@
         "audio": "audio/C9-v2.mp3"
       }
     ],
-    "worksheet": "worksheet-lesson-4.pdf"
+    "worksheet": "worksheet-lesson-4.pdf",
+    "group": "小測溫習"
   },
   {
     "number": 5,
@@ -267,6 +270,158 @@
         "audio": "audio/D9-v2.mp3"
       }
     ],
-    "worksheet": "worksheet-lesson-5.pdf"
+    "worksheet": "worksheet-lesson-5.pdf",
+    "group": "小測溫習"
+  },
+  {
+    "number": 6,
+    "code": "E",
+    "title": "第6課《好姐姐》",
+    "group": "愉快默書",
+    "words": [
+      {
+        "id": "E1",
+        "word": "晚飯",
+        "pinyin": "wǎn fàn",
+        "meaning": "晚上的一餐。",
+        "audio": "audio/E1-v3.mp3"
+      },
+      {
+        "id": "E2",
+        "word": "發現",
+        "pinyin": "fā xiàn",
+        "meaning": "找到原先不知道的人或事。",
+        "audio": "audio/E2-v3.mp3"
+      },
+      {
+        "id": "E3",
+        "word": "姐姐",
+        "pinyin": "jiě jie",
+        "meaning": "比自己年長的姊妹。",
+        "audio": "audio/E3-v3.mp3"
+      },
+      {
+        "id": "E4",
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "meaning": "感到驚慌或不安。",
+        "audio": "audio/E4-v3.mp3"
+      },
+      {
+        "id": "E5",
+        "word": "走",
+        "pinyin": "zǒu",
+        "meaning": "用雙腳向前移動。",
+        "audio": "audio/E5-v3.mp3"
+      },
+      {
+        "id": "E6",
+        "word": "畫",
+        "pinyin": "huà",
+        "meaning": "用筆描繪圖像。",
+        "audio": "audio/E6-v3.mp3"
+      },
+      {
+        "id": "E7",
+        "word": "怎樣",
+        "pinyin": "zěn yàng",
+        "meaning": "詢問方法或情況。",
+        "audio": "audio/E7-v3.mp3"
+      },
+      {
+        "id": "E8",
+        "word": "看",
+        "pinyin": "kàn",
+        "meaning": "用眼睛觀察。",
+        "audio": "audio/E8-v3.mp3"
+      },
+      {
+        "id": "E9",
+        "word": "對不起",
+        "pinyin": "duì bu qǐ",
+        "meaning": "做錯事時表示歉意。",
+        "audio": "audio/E9-v3.mp3"
+      },
+      {
+        "id": "E10",
+        "word": "聽",
+        "pinyin": "tīng",
+        "meaning": "用耳朵接收聲音。",
+        "audio": "audio/E10-v3.mp3"
+      }
+    ],
+    "worksheet": "worksheet-lesson-6.pdf"
+  },
+  {
+    "number": 8,
+    "code": "F",
+    "title": "第8課《鵝大哥》",
+    "group": "愉快默書",
+    "words": [
+      {
+        "id": "F1",
+        "word": "鵝",
+        "pinyin": "é",
+        "meaning": "有長頸和蹼足的鳥。",
+        "audio": "audio/F1-v3.mp3"
+      },
+      {
+        "id": "F2",
+        "word": "大哥",
+        "pinyin": "dà gē",
+        "meaning": "對年長男子或兄長的稱呼。",
+        "audio": "audio/F2-v3.mp3"
+      },
+      {
+        "id": "F3",
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "meaning": "戴在頭上的物品。",
+        "audio": "audio/F3-v3.mp3"
+      },
+      {
+        "id": "F4",
+        "word": "紅",
+        "pinyin": "hóng",
+        "meaning": "像紅旗的顏色。",
+        "audio": "audio/F4-v3.mp3"
+      },
+      {
+        "id": "F5",
+        "word": "白",
+        "pinyin": "bái",
+        "meaning": "像雪一樣的顏色。",
+        "audio": "audio/F5-v3.mp3"
+      },
+      {
+        "id": "F6",
+        "word": "請",
+        "pinyin": "qǐng",
+        "meaning": "有禮貌地邀請或提出要求。",
+        "audio": "audio/F6-v3.mp3"
+      },
+      {
+        "id": "F7",
+        "word": "你",
+        "pinyin": "nǐ",
+        "meaning": "說話時稱呼對方。",
+        "audio": "audio/F7-v3.mp3"
+      },
+      {
+        "id": "F8",
+        "word": "問",
+        "pinyin": "wèn",
+        "meaning": "提出問題。",
+        "audio": "audio/F8-v3.mp3"
+      },
+      {
+        "id": "F9",
+        "word": "甚麼",
+        "pinyin": "shén me",
+        "meaning": "用來詢問事物。",
+        "audio": "audio/F9-v3.mp3"
+      }
+    ],
+    "worksheet": "worksheet-lesson-8.pdf"
   }
 ]
